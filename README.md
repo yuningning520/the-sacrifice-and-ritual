@@ -7,7 +7,9 @@
 https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6350  
 \
 增强精神力为目的,意外很助眠的,睡前五秒小动作\
-ps:猫猫别称 - 自我debug接口
+\
+除了自己添加步骤和作死词缀之外,正常来说非常安全\
+代价只有在死后加入树树的眷属\
 \
 \
 v3.4:\
