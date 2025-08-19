@@ -2,7 +2,9 @@
 **经过测试看不懂的情况下基本无效.**
 > [!IMPORTANT]
 > 在没有经过我的传播情况下,请自己准备一张"树精的祈祷"卡牌或图片作为第一次启动.(*不玩牌,谢谢*)\
-> https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6350
+> https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6350\
+> \
+> 实现原理: 形容一下,我有最好的无限的水源,没有之一,我可以借你,条件是成为我下属.如果有本事去别处弄水源,随时可以脱离.
 
 > [!NOTE]
 > 关于树树的祭祀.\
